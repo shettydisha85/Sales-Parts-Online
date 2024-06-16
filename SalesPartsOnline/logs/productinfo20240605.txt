@@ -1,0 +1,277 @@
+2024-06-05 15:29:38.734 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-06-05 15:29:38.826 +02:00 [DBG] Hosting starting
+2024-06-05 15:29:38.843 +02:00 [INF] User profile is available. Using 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-06-05 15:29:38.853 +02:00 [DBG] Repository contains no viable default key. Caller should generate a key with immediate activation.
+2024-06-05 15:29:38.853 +02:00 [DBG] Policy resolution states that a new key should be added to the key ring.
+2024-06-05 15:29:38.856 +02:00 [INF] Creating key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} with creation date 2024-06-05 13:29:38Z, activation date 2024-06-05 13:29:38Z, and expiration date 2024-09-03 13:29:38Z.
+2024-06-05 15:29:38.866 +02:00 [DBG] Descriptor deserializer type for key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} is 'Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+2024-06-05 15:29:38.869 +02:00 [DBG] No key escrow sink found. Not writing key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} to escrow.
+2024-06-05 15:29:38.871 +02:00 [DBG] Encrypting to Windows DPAPI for current user account (DIHE\shett).
+2024-06-05 15:29:38.877 +02:00 [INF] Writing data to file 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys\key-a085cf1d-7a99-4c62-859a-ab31fa7b8eeb.xml'.
+2024-06-05 15:29:38.877 +02:00 [DBG] Key cache expiration token triggered by 'CreateNewKey' operation.
+2024-06-05 15:29:38.878 +02:00 [DBG] Reading data from file 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys\key-a085cf1d-7a99-4c62-859a-ab31fa7b8eeb.xml'.
+2024-06-05 15:29:38.880 +02:00 [DBG] Found key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb}.
+2024-06-05 15:29:38.882 +02:00 [DBG] Considering key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} with expiration date 2024-09-03 13:29:38Z as default key.
+2024-06-05 15:29:38.883 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 15:29:38.883 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-06-05 15:29:38.884 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 15:29:38.887 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-06-05 15:29:38.887 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-06-05 15:29:38.888 +02:00 [DBG] Using key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} as the default key.
+2024-06-05 15:29:38.889 +02:00 [DBG] Key ring with default key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} was loaded during application startup.
+2024-06-05 15:29:39.035 +02:00 [DBG] Loaded hosting startup assembly SalesPartsOnline
+2024-06-05 15:29:39.035 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-06-05 15:29:39.035 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-06-05 15:29:39.035 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-05 15:29:39.036 +02:00 [INF] Hosting environment: Development
+2024-06-05 15:29:39.036 +02:00 [INF] Content root path: C:\Users\shett\source\repos\SalesPartsOnline\SalesPartsOnline
+2024-06-05 15:29:39.036 +02:00 [DBG] Hosting started
+2024-06-05 15:29:39.100 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - null null
+2024-06-05 15:29:39.208 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-06-05 15:29:39.260 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-06-05 15:29:39.261 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-06-05 15:29:39.285 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-06-05 15:29:39.285 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-06-05 15:29:39.287 +02:00 [DBG] Connection ID "18374686493361831937" disconnecting.
+2024-06-05 15:29:39.289 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - 200 null text/html;charset=utf-8 193.6067ms
+2024-06-05 15:29:39.309 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - null null
+2024-06-05 15:29:39.309 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-05 15:29:39.316 +02:00 [DBG] Connection ID "18374686497656799233" disconnecting.
+2024-06-05 15:29:39.316 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 4.1509ms
+2024-06-05 15:29:39.447 +02:00 [DBG] Connection ID "18302628903618871297" disconnecting.
+2024-06-05 15:29:39.459 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - 200 null text/javascript; charset=UTF-8 152.0494ms
+2024-06-05 15:29:39.492 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - null null
+2024-06-05 15:29:39.631 +02:00 [DBG] Connection ID "18158513698363146241" disconnecting.
+2024-06-05 15:29:39.631 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 138.6425ms
+2024-06-05 15:30:46.815 +02:00 [INF] Request starting HTTP/2 POST https://localhost:44355/api/token/authenticate - null 0
+2024-06-05 15:30:46.820 +02:00 [DBG] POST requests are not supported
+2024-06-05 15:30:46.846 +02:00 [DBG] 1 candidate(s) found for the request path '/api/token/authenticate'
+2024-06-05 15:30:46.848 +02:00 [DBG] Endpoint 'SalesPartsOnline.Controllers.AuthenticationController.GetToken (SalesPartsOnline)' with route pattern 'api/token/authenticate' is valid for the request path '/api/token/authenticate'
+2024-06-05 15:30:46.848 +02:00 [DBG] Request matched endpoint 'SalesPartsOnline.Controllers.AuthenticationController.GetToken (SalesPartsOnline)'
+2024-06-05 15:30:46.853 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 15:30:46.854 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 15:30:46.855 +02:00 [DBG] Policy authentication schemes BasicAuthentication did not succeed
+2024-06-05 15:30:46.857 +02:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-06-05 15:30:46.858 +02:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-06-05 15:30:46.860 +02:00 [DBG] Connection ID "18302628907913838593" disconnecting.
+2024-06-05 15:30:46.860 +02:00 [INF] Request finished HTTP/2 POST https://localhost:44355/api/token/authenticate - 401 null null 45.2171ms
+2024-06-05 15:32:48.229 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-06-05 15:32:48.303 +02:00 [DBG] Hosting starting
+2024-06-05 15:32:48.324 +02:00 [INF] User profile is available. Using 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-06-05 15:32:48.330 +02:00 [DBG] Reading data from file 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys\key-a085cf1d-7a99-4c62-859a-ab31fa7b8eeb.xml'.
+2024-06-05 15:32:48.353 +02:00 [DBG] Found key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb}.
+2024-06-05 15:32:48.358 +02:00 [DBG] Considering key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} with expiration date 2024-09-03 13:29:38Z as default key.
+2024-06-05 15:32:48.360 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 15:32:48.361 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-06-05 15:32:48.361 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 15:32:48.364 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-06-05 15:32:48.365 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-06-05 15:32:48.365 +02:00 [DBG] Using key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} as the default key.
+2024-06-05 15:32:48.366 +02:00 [DBG] Key ring with default key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} was loaded during application startup.
+2024-06-05 15:32:48.467 +02:00 [DBG] Loaded hosting startup assembly SalesPartsOnline
+2024-06-05 15:32:48.467 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-06-05 15:32:48.468 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-06-05 15:32:48.468 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-05 15:32:48.468 +02:00 [INF] Hosting environment: Development
+2024-06-05 15:32:48.468 +02:00 [INF] Content root path: C:\Users\shett\source\repos\SalesPartsOnline\SalesPartsOnline
+2024-06-05 15:32:48.469 +02:00 [DBG] Hosting started
+2024-06-05 15:32:48.504 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - null null
+2024-06-05 15:32:48.600 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-06-05 15:32:48.649 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-06-05 15:32:48.650 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-06-05 15:32:48.680 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-06-05 15:32:48.681 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-06-05 15:32:48.682 +02:00 [DBG] Connection ID "18374686536311504897" disconnecting.
+2024-06-05 15:32:48.686 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - 200 null text/html;charset=utf-8 184.5406ms
+2024-06-05 15:32:48.692 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - null null
+2024-06-05 15:32:48.692 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-05 15:32:48.696 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 7.3511ms
+2024-06-05 15:32:48.724 +02:00 [DBG] Connection ID "18086456104325218305" disconnecting.
+2024-06-05 15:32:48.726 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.2236ms
+2024-06-05 15:32:48.825 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - null null
+2024-06-05 15:32:48.929 +02:00 [DBG] Connection ID "18302628890733969413" disconnecting.
+2024-06-05 15:32:48.929 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 104.1143ms
+2024-06-05 15:33:35.930 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/api/products - null null
+2024-06-05 15:33:35.942 +02:00 [DBG] The request path  does not match the path filter
+2024-06-05 15:33:36.000 +02:00 [DBG] 1 candidate(s) found for the request path '/api/products'
+2024-06-05 15:33:36.002 +02:00 [DBG] Endpoint 'SalesPartsOnline.Controllers.ProductController.GetAllProducts (SalesPartsOnline)' with route pattern 'api/products' is valid for the request path '/api/products'
+2024-06-05 15:33:36.003 +02:00 [DBG] Request matched endpoint 'SalesPartsOnline.Controllers.ProductController.GetAllProducts (SalesPartsOnline)'
+2024-06-05 15:33:36.015 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 15:33:36.022 +02:00 [DBG] Policy authentication schemes  did not succeed
+2024-06-05 15:33:36.028 +02:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-06-05 15:33:36.030 +02:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-06-05 15:33:36.032 +02:00 [DBG] Connection ID "17942340916249362433" disconnecting.
+2024-06-05 15:33:36.032 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/api/products - 401 null null 102.4055ms
+2024-06-05 15:33:58.266 +02:00 [INF] Request starting HTTP/2 POST https://localhost:44355/api/products - application/json-patch+json 162
+2024-06-05 15:33:58.267 +02:00 [DBG] POST requests are not supported
+2024-06-05 15:33:58.271 +02:00 [DBG] 1 candidate(s) found for the request path '/api/products'
+2024-06-05 15:33:58.272 +02:00 [DBG] Endpoint 'SalesPartsOnline.Controllers.ProductController.AddProduct (SalesPartsOnline)' with route pattern 'api/products' is valid for the request path '/api/products'
+2024-06-05 15:33:58.272 +02:00 [DBG] Request matched endpoint 'SalesPartsOnline.Controllers.ProductController.AddProduct (SalesPartsOnline)'
+2024-06-05 15:33:58.297 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 15:33:58.299 +02:00 [DBG] Policy authentication schemes  did not succeed
+2024-06-05 15:33:58.299 +02:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-06-05 15:33:58.300 +02:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-06-05 15:33:58.302 +02:00 [INF] Request finished HTTP/2 POST https://localhost:44355/api/products - 401 null null 36.8109ms
+2024-06-05 15:33:58.302 +02:00 [DBG] Connection ID "18374686493361831939" disconnecting.
+2024-06-05 15:34:00.408 +02:00 [INF] Request starting HTTP/2 POST https://localhost:44355/api/products - application/json-patch+json 162
+2024-06-05 15:34:00.409 +02:00 [DBG] POST requests are not supported
+2024-06-05 15:34:00.409 +02:00 [DBG] 1 candidate(s) found for the request path '/api/products'
+2024-06-05 15:34:00.410 +02:00 [DBG] Endpoint 'SalesPartsOnline.Controllers.ProductController.AddProduct (SalesPartsOnline)' with route pattern 'api/products' is valid for the request path '/api/products'
+2024-06-05 15:34:00.410 +02:00 [DBG] Request matched endpoint 'SalesPartsOnline.Controllers.ProductController.AddProduct (SalesPartsOnline)'
+2024-06-05 15:34:00.411 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 15:34:00.414 +02:00 [DBG] Policy authentication schemes  did not succeed
+2024-06-05 15:34:00.415 +02:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-06-05 15:34:00.416 +02:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-06-05 15:34:00.419 +02:00 [INF] Request finished HTTP/2 POST https://localhost:44355/api/products - 401 null null 12.0254ms
+2024-06-05 15:34:00.427 +02:00 [DBG] Connection ID "18374686497656799235" disconnecting.
+2024-06-05 16:30:33.480 +02:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-06-05 16:30:33.556 +02:00 [DBG] Hosting starting
+2024-06-05 16:30:33.575 +02:00 [INF] User profile is available. Using 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-06-05 16:30:33.583 +02:00 [DBG] Reading data from file 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys\key-a085cf1d-7a99-4c62-859a-ab31fa7b8eeb.xml'.
+2024-06-05 16:30:33.597 +02:00 [DBG] Found key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb}.
+2024-06-05 16:30:33.602 +02:00 [DBG] Considering key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} with expiration date 2024-09-03 13:29:38Z as default key.
+2024-06-05 16:30:33.604 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 16:30:33.605 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-06-05 16:30:33.606 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 16:30:33.608 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-06-05 16:30:33.609 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-06-05 16:30:33.610 +02:00 [DBG] Using key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} as the default key.
+2024-06-05 16:30:33.610 +02:00 [DBG] Key ring with default key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} was loaded during application startup.
+2024-06-05 16:30:33.687 +02:00 [DBG] Loaded hosting startup assembly SalesPartsOnline
+2024-06-05 16:30:33.688 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-06-05 16:30:33.688 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-06-05 16:30:33.688 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-05 16:30:33.688 +02:00 [INF] Hosting environment: Development
+2024-06-05 16:30:33.688 +02:00 [INF] Content root path: C:\Users\shett\source\repos\SalesPartsOnline\SalesPartsOnline
+2024-06-05 16:30:33.688 +02:00 [DBG] Hosting started
+2024-06-05 16:30:33.724 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - null null
+2024-06-05 16:30:33.810 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-06-05 16:30:33.856 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-06-05 16:30:33.857 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-06-05 16:30:33.881 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-06-05 16:30:33.881 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-06-05 16:30:33.882 +02:00 [DBG] Connection ID "18086456112915152899" disconnecting.
+2024-06-05 16:30:33.886 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-05 16:30:33.894 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - null null
+2024-06-05 16:30:33.885 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - 200 null text/html;charset=utf-8 164.1986ms
+2024-06-05 16:30:33.896 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 10.058ms
+2024-06-05 16:30:33.946 +02:00 [DBG] Connection ID "18374686493361831941" disconnecting.
+2024-06-05 16:30:33.946 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.9436ms
+2024-06-05 16:30:34.042 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - null null
+2024-06-05 16:30:34.215 +02:00 [DBG] Connection ID "18086456112915152903" disconnecting.
+2024-06-05 16:30:34.215 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 173.1669ms
+2024-06-05 16:30:40.638 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - null null
+2024-06-05 16:30:40.656 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 18.7941ms
+2024-06-05 16:30:40.661 +02:00 [DBG] Connection ID "18302628903618871303" disconnecting.
+2024-06-05 16:30:40.694 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/favicon.ico - null null
+2024-06-05 16:30:40.697 +02:00 [DBG] The request path  does not match the path filter
+2024-06-05 16:30:40.772 +02:00 [DBG] No candidates found for the request path '/favicon.ico'
+2024-06-05 16:30:40.773 +02:00 [DBG] Request did not match any endpoints
+2024-06-05 16:30:40.784 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 16:30:40.788 +02:00 [DBG] Connection ID "18374686501951766532" disconnecting.
+2024-06-05 16:30:40.788 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/favicon.ico - 404 null null 94.5215ms
+2024-06-05 16:30:40.789 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44355/favicon.ico, Response status code: 404
+2024-06-05 16:38:56.404 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:44355/api/v1/products/<string> - null null
+2024-06-05 16:38:56.405 +02:00 [DBG] The request path  does not match the path filter
+2024-06-05 16:38:56.425 +02:00 [DBG] 1 candidate(s) found for the request path '/api/v1/products/<string>'
+2024-06-05 16:38:56.430 +02:00 [DBG] Endpoint 'SalesPartsOnline.Controllers.ProductController.GetProductByID (SalesPartsOnline)' with route pattern 'api/v{version:apiVersion}/products/{id}' is valid for the request path '/api/v1/products/<string>'
+2024-06-05 16:38:56.440 +02:00 [DBG] Request matched endpoint 'SalesPartsOnline.Controllers.ProductController.GetProductByID (SalesPartsOnline)'
+2024-06-05 16:38:56.444 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 16:38:56.456 +02:00 [INF] Executing endpoint 'SalesPartsOnline.Controllers.ProductController.GetProductByID (SalesPartsOnline)'
+2024-06-05 16:38:56.494 +02:00 [INF] Route matched with {action = "GetProductByID", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetProductByID(System.String) on controller SalesPartsOnline.Controllers.ProductController (SalesPartsOnline).
+2024-06-05 16:38:56.496 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-06-05 16:38:56.496 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-06-05 16:38:56.497 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2024-06-05 16:38:56.497 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-06-05 16:38:56.497 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)","Microsoft.AspNetCore.Mvc.ProducesAttribute (Order: 0)"]
+2024-06-05 16:38:56.499 +02:00 [DBG] Executing controller factory for controller SalesPartsOnline.Controllers.ProductController (SalesPartsOnline)
+2024-06-05 16:38:56.502 +02:00 [DBG] Executed controller factory for controller SalesPartsOnline.Controllers.ProductController (SalesPartsOnline)
+2024-06-05 16:38:56.507 +02:00 [DBG] Attempting to bind parameter 'id' of type 'System.String' ...
+2024-06-05 16:38:56.509 +02:00 [DBG] Attempting to bind parameter 'id' of type 'System.String' using the name 'id' in request data ...
+2024-06-05 16:38:56.510 +02:00 [DBG] Done attempting to bind parameter 'id' of type 'System.String'.
+2024-06-05 16:38:56.510 +02:00 [DBG] Done attempting to bind parameter 'id' of type 'System.String'.
+2024-06-05 16:38:56.510 +02:00 [DBG] Attempting to validate the bound parameter 'id' of type 'System.String' ...
+2024-06-05 16:38:56.515 +02:00 [DBG] Done attempting to validate the bound parameter 'id' of type 'System.String'.
+2024-06-05 16:38:56.519 +02:00 [ERR] Product Id not found : <string>
+2024-06-05 16:38:56.522 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter"]
+2024-06-05 16:38:56.524 +02:00 [DBG] No information found on request to perform content negotiation.
+2024-06-05 16:38:56.524 +02:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/json","application/problem+json","application/problem+xml"]'.
+2024-06-05 16:38:56.525 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-06-05 16:38:56.526 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-06-05 16:38:56.677 +02:00 [INF] Executed action SalesPartsOnline.Controllers.ProductController.GetProductByID (SalesPartsOnline) in 175.2781ms
+2024-06-05 16:38:56.677 +02:00 [INF] Executed endpoint 'SalesPartsOnline.Controllers.ProductController.GetProductByID (SalesPartsOnline)'
+2024-06-05 16:38:56.678 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:44355/api/v1/products/<string> - 404 162 application/json; charset=utf-8 280.0742ms
+2024-06-05 16:39:03.964 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:44355/api/v1/products - null null
+2024-06-05 16:39:03.965 +02:00 [DBG] The request path  does not match the path filter
+2024-06-05 16:39:03.965 +02:00 [DBG] 1 candidate(s) found for the request path '/api/v1/products'
+2024-06-05 16:39:03.966 +02:00 [DBG] Endpoint 'SalesPartsOnline.Controllers.ProductController.GetAllProducts (SalesPartsOnline)' with route pattern 'api/v{version:apiVersion}/products' is valid for the request path '/api/v1/products'
+2024-06-05 16:39:03.966 +02:00 [DBG] Request matched endpoint 'SalesPartsOnline.Controllers.ProductController.GetAllProducts (SalesPartsOnline)'
+2024-06-05 16:39:03.968 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 16:39:03.968 +02:00 [INF] Executing endpoint 'SalesPartsOnline.Controllers.ProductController.GetAllProducts (SalesPartsOnline)'
+2024-06-05 16:39:03.970 +02:00 [INF] Route matched with {action = "GetAllProducts", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[SalesPartsOnline.Models.ProductViewModel]] GetAllProducts() on controller SalesPartsOnline.Controllers.ProductController (SalesPartsOnline).
+2024-06-05 16:39:03.970 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-06-05 16:39:03.970 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-06-05 16:39:03.971 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2024-06-05 16:39:03.971 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-06-05 16:39:03.971 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)","Microsoft.AspNetCore.Mvc.ProducesAttribute (Order: 0)"]
+2024-06-05 16:39:03.971 +02:00 [DBG] Executing controller factory for controller SalesPartsOnline.Controllers.ProductController (SalesPartsOnline)
+2024-06-05 16:39:03.971 +02:00 [DBG] Executed controller factory for controller SalesPartsOnline.Controllers.ProductController (SalesPartsOnline)
+2024-06-05 16:39:03.972 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter"]
+2024-06-05 16:39:03.973 +02:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]' and explicitly specified content types '["application/json"]'. The content types in the accept header must be a subset of the explicitly set content types.
+2024-06-05 16:39:03.973 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-06-05 16:39:03.973 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SalesPartsOnline.Models.ProductViewModel, SalesPartsOnline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-06-05 16:39:03.986 +02:00 [INF] Executed action SalesPartsOnline.Controllers.ProductController.GetAllProducts (SalesPartsOnline) in 14.664ms
+2024-06-05 16:39:03.986 +02:00 [INF] Executed endpoint 'SalesPartsOnline.Controllers.ProductController.GetAllProducts (SalesPartsOnline)'
+2024-06-05 16:39:03.986 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:44355/api/v1/products - 200 3327 application/json; charset=utf-8 22.1927ms
+2024-06-05 16:39:21.029 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:44355/api/token/authenticate - null 0
+2024-06-05 16:39:21.030 +02:00 [DBG] POST requests are not supported
+2024-06-05 16:39:21.030 +02:00 [DBG] 1 candidate(s) found for the request path '/api/token/authenticate'
+2024-06-05 16:39:21.030 +02:00 [DBG] Endpoint 'SalesPartsOnline.Controllers.AuthenticationController.GetToken (SalesPartsOnline)' with route pattern 'api/token/authenticate' is valid for the request path '/api/token/authenticate'
+2024-06-05 16:39:21.032 +02:00 [DBG] Request matched endpoint 'SalesPartsOnline.Controllers.AuthenticationController.GetToken (SalesPartsOnline)'
+2024-06-05 16:39:21.033 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 16:39:21.035 +02:00 [INF] BasicAuthentication was not authenticated. Failure message: Missing Authorization Header
+2024-06-05 16:39:21.036 +02:00 [DBG] Policy authentication schemes BasicAuthentication did not succeed
+2024-06-05 16:39:21.039 +02:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-06-05 16:39:21.040 +02:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-06-05 16:39:21.042 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:44355/api/token/authenticate - 401 null null 14.6007ms
+2024-06-05 16:48:27.669 +02:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-06-05 16:48:27.750 +02:00 [DBG] Hosting starting
+2024-06-05 16:48:27.767 +02:00 [INF] User profile is available. Using 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-06-05 16:48:27.775 +02:00 [DBG] Reading data from file 'C:\Users\shett\AppData\Local\ASP.NET\DataProtection-Keys\key-a085cf1d-7a99-4c62-859a-ab31fa7b8eeb.xml'.
+2024-06-05 16:48:27.789 +02:00 [DBG] Found key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb}.
+2024-06-05 16:48:27.794 +02:00 [DBG] Considering key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} with expiration date 2024-09-03 13:29:38Z as default key.
+2024-06-05 16:48:27.795 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 16:48:27.797 +02:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-06-05 16:48:27.798 +02:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-06-05 16:48:27.800 +02:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-06-05 16:48:27.801 +02:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-06-05 16:48:27.802 +02:00 [DBG] Using key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} as the default key.
+2024-06-05 16:48:27.802 +02:00 [DBG] Key ring with default key {a085cf1d-7a99-4c62-859a-ab31fa7b8eeb} was loaded during application startup.
+2024-06-05 16:48:27.877 +02:00 [DBG] Loaded hosting startup assembly SalesPartsOnline
+2024-06-05 16:48:27.877 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-06-05 16:48:27.877 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-06-05 16:48:27.877 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-05 16:48:27.877 +02:00 [INF] Hosting environment: Development
+2024-06-05 16:48:27.877 +02:00 [INF] Content root path: C:\Users\shett\source\repos\SalesPartsOnline\SalesPartsOnline
+2024-06-05 16:48:27.878 +02:00 [DBG] Hosting started
+2024-06-05 16:48:27.917 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - null null
+2024-06-05 16:48:27.998 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-06-05 16:48:28.052 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-06-05 16:48:28.054 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-06-05 16:48:28.078 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-06-05 16:48:28.079 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-06-05 16:48:28.080 +02:00 [DBG] Connection ID "18302628895028936710" disconnecting.
+2024-06-05 16:48:28.082 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - 200 null text/html;charset=utf-8 169.1468ms
+2024-06-05 16:48:28.089 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-05 16:48:28.104 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - null null
+2024-06-05 16:48:28.105 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 15.6685ms
+2024-06-05 16:48:28.155 +02:00 [DBG] Connection ID "18374686493361831945" disconnecting.
+2024-06-05 16:48:28.155 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.3201ms
+2024-06-05 16:48:28.198 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - null null
+2024-06-05 16:48:28.307 +02:00 [DBG] Connection ID "18014398510287290373" disconnecting.
+2024-06-05 16:48:28.307 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 108.9517ms

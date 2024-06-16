@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\data\\crudoperationsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\data\\crudoperationsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\data\\icrudoperationsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\data\\icrudoperationsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\insertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\insertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\data\\spodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\data\\spodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\producteditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\producteditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\productaddmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\productaddmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\logs\\productinfo20240610.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\logs\\productinfo20240610.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\logs\\productinfo20240605.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\logs\\productinfo20240605.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\salespartsonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\salespartsonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\salespartsonline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\salespartsonline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\migrations\\20240610203100_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\migrations\\20240610203100_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|c:\\users\\shett\\source\\repos\\salespartsonline\\salespartsonline\\migrations\\20240610203359_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC477C8-B52D-4A9E-B341-88C90AD63239}|SalesPartsOnline\\SalesPartsOnline.csproj|solutionrelative:salespartsonline\\migrations\\20240610203359_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDOperationsDL.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Data\\CRUDOperationsDL.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Data\\CRUDOperationsDL.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Data\\CRUDOperationsDL.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Data\\CRUDOperationsDL.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAcwGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:44:31.915Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICrudOperationsDL.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Data\\ICrudOperationsDL.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Data\\ICrudOperationsDL.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Data\\ICrudOperationsDL.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Data\\ICrudOperationsDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:42:10.385Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAEwMoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:54:22.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:49:55.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\Category.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:05:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductByIDResponse.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\GetProductByIDResponse.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\GetProductByIDResponse.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\GetProductByIDResponse.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\GetProductByIDResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:40:49.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\InsertProductRequest.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\InsertProductRequest.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\InsertProductRequest.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\InsertProductRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:25:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\appsettings.json",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\appsettings.json",
+              "RelativeToolTip": "SalesPartsOnline\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T13:17:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "SalesPartsOnline\\BasicAuthenticationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:24:28.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\User.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:07:29.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductEditModel.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\ProductEditModel.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\ProductEditModel.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\ProductEditModel.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\ProductEditModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:53:29.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\Order.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:06:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Program.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Program.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAUwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:09:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SPODbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Data\\SPODbContext.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Data\\SPODbContext.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Data\\SPODbContext.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Data\\SPODbContext.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAASwMIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:40:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductAddModel.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\ProductAddModel.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\ProductAddModel.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\ProductAddModel.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\ProductAddModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvx4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:33:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Models\\Product.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:00:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240610203100_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Migrations\\20240610203100_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Migrations\\20240610203100_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Migrations\\20240610203100_InitialCreate.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Migrations\\20240610203100_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:31:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240610203359_SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Migrations\\20240610203359_SeedData.cs",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Migrations\\20240610203359_SeedData.cs",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Migrations\\20240610203359_SeedData.cs",
+              "RelativeToolTip": "SalesPartsOnline\\Migrations\\20240610203359_SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:33:59.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SalesPartsOnline\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T14:02:56.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "productinfo20240610.txt",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\logs\\productinfo20240610.txt",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\logs\\productinfo20240610.txt",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\logs\\productinfo20240610.txt",
+              "RelativeToolTip": "SalesPartsOnline\\logs\\productinfo20240610.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-10T18:59:05.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "productinfo20240605.txt",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\logs\\productinfo20240605.txt",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\logs\\productinfo20240605.txt",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\logs\\productinfo20240605.txt",
+              "RelativeToolTip": "SalesPartsOnline\\logs\\productinfo20240605.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-10T18:59:01.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\appsettings.Development.json",
+              "RelativeToolTip": "SalesPartsOnline\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T18:10:44.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SalesPartsOnline.csproj",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\SalesPartsOnline.csproj",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\SalesPartsOnline.csproj",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\SalesPartsOnline.csproj",
+              "RelativeToolTip": "SalesPartsOnline\\SalesPartsOnline.csproj",
+              "ViewState": "AQIAAA4AAAAAAAAAACBjwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T15:19:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SalesPartsOnline",
+              "DocumentMoniker": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\SalesPartsOnline.csproj",
+              "RelativeDocumentMoniker": "SalesPartsOnline\\SalesPartsOnline.csproj",
+              "ToolTip": "C:\\Users\\shett\\source\\repos\\SalesPartsOnline\\SalesPartsOnline\\SalesPartsOnline.csproj",
+              "RelativeToolTip": "SalesPartsOnline\\SalesPartsOnline.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T14:18:07.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
